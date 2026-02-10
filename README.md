@@ -1,4 +1,4 @@
-<h3 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> , I'm Abhijeet Gadlinge </h3>
+<h3 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> , I'm Karan Motwani </h3>
 <p align="left"> I am  Angular and .NET Developer based in Thane, India, with a  passion for Technology and Coding. Proficient in Angular, React, Node.js, SQL, MongoDB, C++, Java, Angular and Python</p>
 <p>
 I bring enthusiasm and dedication to every project I undertake. With a strong interest in open-source contributions and cybersecurity, I constantly seek to broaden my knowledge and skill set. I love coding and thrive on challenges, always striving to improve and innovate. 
@@ -6,7 +6,7 @@ I bring enthusiasm and dedication to every project I undertake. With a strong in
 
 <p>Outside of my work, I actively participate in hackathons.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhigadlinge&label=Profile%20views&color=0e75b6&style=flat" alt="abhigadlinge" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KaranMotwani22&label=Profile%20views&color=0e75b6&style=flat" alt="KaranMotwani22" /> </p>
 
 
 ## 🙍‍♂️ About Me
@@ -17,9 +17,9 @@ I bring enthusiasm and dedication to every project I undertake. With a strong in
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **abhigadlinge@gmail.com**
+- 📫 How to reach me **karanmotwani125@gmail.com@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://abhigadlinge.github.io/portfolio_website.github.io/)** 
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://karanmotwani.netlify.app/)** 
 
 <!-- - ⚡ Fun fact **I just love to code have tea and again code** -->
 
@@ -60,13 +60,13 @@ I bring enthusiasm and dedication to every project I undertake. With a strong in
  
 <p align="center">
     <a href="https://github.com/Chandrakant92/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhijeet's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigadlinge&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Karans's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KaranMotwani22&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
  <span> 
-    <a href="https://github.com/abhigadlinge/github-readme-stats"><img alt="Abhijeet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhigadlinge&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/KaranMotwani22/github-readme-stats"><img alt="Karan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KaranMotwani22&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  </span>
-  <a href="https://github.com/abhigadlinge/github-readme-stats"><img alt="Abhijeet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhigadlinge&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/KaranMotwani22/github-readme-stats"><img alt="Karans's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranMotwani22&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
 
@@ -79,18 +79,18 @@ I bring enthusiasm and dedication to every project I undertake. With a strong in
 ## ❤️ Connect with me:
 
 <div align="left">
-  <a href="mailto:abhigadlinge@gmail.com" target="_blank">
+  <a href="mailto:karanmotwani125@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=E-Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://twitter.com/abhigadlinge" target="_blank">
+  <!-- <a href="https://twitter.com/abhigadlinge" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/abhijeet-gadlinge-794a711bb/" target="_blank">
+  </a> -->
+  <a href="https://www.linkedin.com/in/karan2211/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.gg/abhigadlinge" target="_blank">
+  <!-- <a href="https://discord.gg/abhigadlinge" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+  </a> -->
 </div>
 
 
