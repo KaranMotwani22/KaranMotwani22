@@ -17,7 +17,7 @@ I bring enthusiasm and dedication to every project I undertake. With a strong in
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **karanmotwani125@gmail.com@gmail.com**
+- 📫 How to reach me **karanmotwani125@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://karanmotwani.netlify.app/)** 
 
